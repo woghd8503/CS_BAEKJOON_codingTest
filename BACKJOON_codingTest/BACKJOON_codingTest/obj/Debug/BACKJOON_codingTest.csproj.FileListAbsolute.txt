@@ -1,0 +1,7 @@
+D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\bin\Debug\BACKJOON_codingTest.exe.config
+D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\bin\Debug\BACKJOON_codingTest.exe
+D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\bin\Debug\BACKJOON_codingTest.pdb
+D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.csproj.AssemblyReference.cache
+D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.csproj.CoreCompileInputs.cache
+D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.exe
+D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.pdb

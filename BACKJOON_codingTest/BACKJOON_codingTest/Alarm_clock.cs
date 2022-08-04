@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace BACKJOON_codingTest
 {
-    class Program
+    class Alarm_clock
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
