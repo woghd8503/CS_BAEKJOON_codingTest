@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alarm_clock.cs" />
-    <Compile Include="Pick_a_quadrant.cs" />
+    <None Include="Pick_a_quadrant.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
