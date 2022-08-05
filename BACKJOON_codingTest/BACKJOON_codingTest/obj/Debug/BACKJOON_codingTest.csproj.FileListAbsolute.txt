@@ -5,3 +5,10 @@ D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTes
 D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.csproj.CoreCompileInputs.cache
 D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.exe
 D:\01.Coding_study\CS_BACKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.pdb
+C:\Users\woghd\Source\Repos\woghd8503\CS_BAEKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.csproj.AssemblyReference.cache
+C:\Users\woghd\Source\Repos\woghd8503\CS_BAEKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.csproj.CoreCompileInputs.cache
+C:\Users\woghd\Source\Repos\woghd8503\CS_BAEKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.exe
+C:\Users\woghd\Source\Repos\woghd8503\CS_BAEKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\obj\Debug\BACKJOON_codingTest.pdb
+C:\Users\woghd\Source\Repos\woghd8503\CS_BAEKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\bin\Debug\BACKJOON_codingTest.exe.config
+C:\Users\woghd\Source\Repos\woghd8503\CS_BAEKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\bin\Debug\BACKJOON_codingTest.exe
+C:\Users\woghd\Source\Repos\woghd8503\CS_BAEKJOON_codingTest\BACKJOON_codingTest\BACKJOON_codingTest\bin\Debug\BACKJOON_codingTest.pdb
