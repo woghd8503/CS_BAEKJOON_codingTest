@@ -43,11 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Sum.cs" />
+    <None Include="Sum.cs" />
     <None Include="Alarm_clock.cs" />
     <None Include="Pick_a_quadrant.cs" />
     <None Include="multiplication.cs" />
     <None Include="A+B-3.cs" />
+    <Compile Include="OvenTimer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
