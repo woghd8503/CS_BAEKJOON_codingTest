@@ -43,14 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Star_1.cs" />
+    <Compile Include="Star_2.cs" />
     <None Include="Sum.cs" />
     <None Include="Alarm_clock.cs" />
     <None Include="Pick_a_quadrant.cs" />
     <None Include="multiplication.cs" />
     <None Include="A+B-3.cs" />
-    <Compile Include="Chess.cs" />
+    <None Include="Chess.cs" />
     <None Include="MaxMin.cs" />
     <None Include="OvenTimer.cs" />
+    <None Include="Dice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
