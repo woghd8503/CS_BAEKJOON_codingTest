@@ -48,7 +48,8 @@
     <None Include="Pick_a_quadrant.cs" />
     <None Include="multiplication.cs" />
     <None Include="A+B-3.cs" />
-    <Compile Include="MaxMin.cs" />
+    <Compile Include="Chess.cs" />
+    <None Include="MaxMin.cs" />
     <None Include="OvenTimer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
