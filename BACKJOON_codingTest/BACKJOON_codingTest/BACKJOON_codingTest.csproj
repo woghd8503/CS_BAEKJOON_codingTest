@@ -44,7 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Star_1.cs" />
-    <Compile Include="Star_2.cs" />
+    <Compile Include="Receipt.cs" />
+    <None Include="Star_2.cs" />
     <None Include="Sum.cs" />
     <None Include="Alarm_clock.cs" />
     <None Include="Pick_a_quadrant.cs" />
