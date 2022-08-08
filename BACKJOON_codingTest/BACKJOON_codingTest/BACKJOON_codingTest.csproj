@@ -60,7 +60,8 @@
     <None Include="Dice.cs" />
     <None Include="A+B-4.cs" />
     <None Include="NumCount.cs" />
-    <Compile Include="Average.cs" />
+    <Compile Include="A+B-8.cs" />
+    <None Include="Average.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
