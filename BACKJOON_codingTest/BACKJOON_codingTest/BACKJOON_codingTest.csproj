@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Reminder.cs" />
     <None Include="A+B-5.cs" />
     <None Include="SmallerThanX.cs" />
     <None Include="Star_1.cs" />
@@ -64,7 +65,7 @@
     <None Include="Average.cs" />
     <None Include="A+B-7.cs" />
     <None Include="A+B-fast.cs" />
-    <Compile Include="PlusCycle.cs" />
+    <None Include="PlusCycle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
