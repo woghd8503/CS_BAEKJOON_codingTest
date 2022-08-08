@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SmallerThanX.cs" />
+    <None Include="A+B-5.cs" />
+    <None Include="SmallerThanX.cs" />
     <None Include="Star_1.cs" />
     <None Include="MaxValue.cs" />
     <None Include="Receipt.cs" />
