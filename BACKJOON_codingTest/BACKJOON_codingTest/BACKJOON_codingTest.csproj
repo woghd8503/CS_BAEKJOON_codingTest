@@ -58,6 +58,7 @@
     <None Include="MaxMin.cs" />
     <None Include="OvenTimer.cs" />
     <None Include="Dice.cs" />
+    <Compile Include="NumCount.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
