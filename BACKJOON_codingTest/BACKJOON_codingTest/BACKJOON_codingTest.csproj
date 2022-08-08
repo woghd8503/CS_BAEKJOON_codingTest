@@ -63,7 +63,8 @@
     <None Include="A+B-8.cs" />
     <None Include="Average.cs" />
     <None Include="A+B-7.cs" />
-    <Compile Include="A+B-fast.cs" />
+    <None Include="A+B-fast.cs" />
+    <Compile Include="PlusCycle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
