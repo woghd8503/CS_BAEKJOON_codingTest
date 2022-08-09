@@ -68,7 +68,9 @@
     <None Include="PlusCycle.cs" />
     <None Include="AboveAverage.cs" />
     <None Include="OXquiz.cs" />
-    <Compile Include="SelfNumber.cs" />
+    <None Include="SelfNumber.cs" />
+    <None Include="Hansu.cs" />
+    <Compile Include="ASCIIcode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
