@@ -66,8 +66,9 @@
     <None Include="A+B-7.cs" />
     <None Include="A+B-fast.cs" />
     <None Include="PlusCycle.cs" />
-    <Compile Include="AboveAverage.cs" />
+    <None Include="AboveAverage.cs" />
     <None Include="OXquiz.cs" />
+    <Compile Include="SelfNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
