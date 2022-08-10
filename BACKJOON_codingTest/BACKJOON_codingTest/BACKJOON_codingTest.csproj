@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="StudyingVoca.cs" />
     <None Include="SumNumber.cs" />
     <None Include="Reminder.cs" />
     <None Include="A+B-5.cs" />
