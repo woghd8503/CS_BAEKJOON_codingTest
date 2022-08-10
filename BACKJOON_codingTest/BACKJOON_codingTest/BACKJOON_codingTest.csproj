@@ -73,7 +73,8 @@
     <None Include="Hansu.cs" />
     <None Include="ASCIIcode.cs" />
     <None Include="CountWords.cs" />
-    <Compile Include="CroatiaAlphabet.cs" />
+    <None Include="CroatiaAlphabet.cs" />
+    <Compile Include="Dial.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
