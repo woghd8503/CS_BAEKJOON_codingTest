@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StudyingVoca.cs" />
+    <None Include="StudyingVoca.cs" />
     <None Include="SumNumber.cs" />
     <None Include="Reminder.cs" />
     <None Include="A+B-5.cs" />
@@ -75,7 +75,9 @@
     <None Include="ASCIIcode.cs" />
     <None Include="CountWords.cs" />
     <None Include="CroatiaAlphabet.cs" />
-    <Compile Include="Dial.cs" />
+    <None Include="Dial.cs" />
+    <None Include="FindDecimal.cs" />
+    <Compile Include="Decimal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
