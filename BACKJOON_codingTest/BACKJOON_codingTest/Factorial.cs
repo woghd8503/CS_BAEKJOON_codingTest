@@ -4,7 +4,6 @@ namespace BACKJOON_codingTest
 {
     class Factorial
     {
-
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
