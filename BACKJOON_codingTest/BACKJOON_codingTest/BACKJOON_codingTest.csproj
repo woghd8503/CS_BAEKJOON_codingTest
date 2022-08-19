@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="BecomeLeader.cs" />
     <None Include="BreakEven.cs" />
     <None Include="CheckGroupVoca.cs" />
@@ -51,6 +52,8 @@
     <None Include="FindFraction.cs" />
     <None Include="HoneyComb.cs" />
     <None Include="RepeatString.cs" />
+=======
+>>>>>>> e05c7d54119bf2564fc51a58f290b2407472ff51
     <None Include="StudyingVoca.cs" />
     <None Include="SumNumber.cs" />
     <None Include="Reminder.cs" />
@@ -84,8 +87,14 @@
     <None Include="CountWords.cs" />
     <None Include="CroatiaAlphabet.cs" />
     <None Include="Dial.cs" />
+<<<<<<< HEAD
     <None Include="ACM_Hotel.cs" />
     <Compile Include="DeliverSugar.cs" />
+=======
+    <None Include="FindDecimal.cs" />
+    <Compile Include="Factorial.cs" />
+    <None Include="Decimal.cs" />
+>>>>>>> e05c7d54119bf2564fc51a58f290b2407472ff51
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
